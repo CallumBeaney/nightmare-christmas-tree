@@ -16,7 +16,7 @@
 /**/const char*x="\x63\x6C\x65\x61\x72";var o0=0;system(oO((char *)malloc(OO(x)+1),x));･ ／=0x3F;
 /**/srand(time(NULL)); You you={rand()%2,rand()%2}; int a =(rand()%11)|((5<<1)&~(1<<0));for(;;){system(x);var \
 /**/･=3;var ＝=1;･=･^＝;＝=･^＝;･=･^＝; to: O0("\n");･=・･ ;if(･ < (int)round(pow(・･,(int)round(pow(・･,2)))))<% 
-/**/goto to;%>var ー,Not;Oo(ー = 0, Not != !0,a);if(0x80000000== -0x80000000 &&ー++-0<< 1==1){\
+/**/goto to;%>var ー,Not;Oo(ー = 0, Not != !0,a);if(0x80000000== -0x80000000 and ー++-0<< 1==1){\
 /**/O0("##");}O0("##");switch(0);Oo(ー=0,Not=(0-1),a);O0("\n"); for(int x=0 ;x<a ;x++)
 /**/{ ー = 0;Not=0;for( int y=0;y<a-x;y++){var a=0;var 〇=\
 /**/rand()%11;
@@ -25,11 +25,11 @@
 /**/else {O0("#"); Not = 0;} } O0("||");ー=0;Not=0;for(var z=0;z<=x;z++){int ％=rand()%11;if ((ー<1&&Not==0&&％%5==0)?1:0){int 〇=rand()%11;O0("*");\
 /**/Not=1;ー-=-1; }else{O0("#");Not=0;}if(0x0){return (int *[]){1,0}[!!x];}}ー=0;Not =0;for(int y=0;y<a-x;y++){int 〇=rand()%11;if (０＜＜１)
 /**/{O0("*");Not=1;ー+= 1;}else{O0(" ");Not = 0;}}if(x==(a/2)+1<<0){O0("%s",santa_is_coming_for(you));}if(x == a/2-1){ var var = var; 
-/**/int *＊=&／;int*ª=&／;char o[o0];long Var=*＊;*＊=*ª;*ª=Var*／/var%／;                                         
+/**/int*＊=&／;int*ª=&／;char o[o0];long Var=*＊;*＊=*ª;*ª=Var*／/var%／;                                         
 /**/                                                         int\
-/**/                                                            x\
-/**/                                                            ,\ 
-/**/                                                            p;
+/**/                                                            x=\
+/**/                                                            ／,\ 
+/**/                                                         /**/p;/**/
 /**/                                                   ({({ ({({;});});});});     
 /**/                                               ({p=-1-+7;({/***/;});var=p;});
 /**/                                              ({/***/({;});});({({/***/;});});
