@@ -9,16 +9,14 @@
 /**/typedef struct {int watchingOut, notCrying;} You; char* isSantaComing(You you);
 /**/void Oo(int, int, int); typedef char *str; typedef int NUL; int typedef signed var; 
 /**/#define NUL ((ー<2&&Not!=NOT 0 and 〇%7==0) ? 1:0)
-/**//**/#define true 1 /**!!1*/
-/**|**\\154\\063\\063\\164*/
-/**//***/#define NOT !
-/**/#define is ==
 /*|***\*/#define O0 printf
-/**\*/int main(void) {
+/*\**/
+/**/#define NOT !
+/**\*/int main(void){
 /**/const char*x="\x63\x6C\x65\x61\x72";var o0=0;system(oO((char *)malloc(OO(x)+1),x));int VAR=0x3F;
 /**/srand(time(NULL)); You you={rand()%2,rand()%2}; int a =(rand()%11)|((5<<1)&~(1<<0));for(;;){system(x);var \
 /**/three=3;var one=1;three=three^one;one=three^one;three=three^one; to: O0("\n");three=2;if(three < 2)<% 
-/**/goto to;%>var ー,Not;Oo(ー = 0, Not != !0,a);if(0x80000000== -0x80000000 &&ー++-0<< true is true){\
+/**/goto to;%>var ー,Not;Oo(ー = 0, Not != !0,a);if(0x80000000== -0x80000000 &&ー++-0<< 1==1){\
 /**/O0("##");}O0("##");switch(0);Oo(ー=0,Not=(0-1),a);O0("\n"); for(int x=0 ;x<a ;x++)
 /**/{ ー = 0;Not=0;for( int y=0;y<a-x;y++){var a=0;var 〇=\
 /**/rand()%11;
@@ -59,7 +57,7 @@
 /**/
 /**/
 /**/char* isSantaComing(You you){
-/**/if (you are notCrying is true and you are watchingOut is true){return\
+/**/if (you are notCrying and you are watchingOut){return\
 /**/("\t  Santa Claus is coming to town!"); } else { return("\t  Unfortunately, \
 Santa won't be coming to town");
 /**/  }
