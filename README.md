@@ -3,14 +3,17 @@ Generates a tree of a random height and generates little animated snowflakes. Al
 
 <img src="./pic1.png" alt="Image description" style="width: 600px;">
 
-
-Includes abusive lines such as:
+<br>
+Includes foul abuse like:
 ``` 
-var var = var; VAR = var;
-int *＊=&var;int*$=&VAR;long Var=*＊;*＊=*$;*$=Var/7; 
+var var = var;/**/int *＊=&／;int*ª=&／;char o[o0];long Var=*＊;*＊=*ª;*ª=Var*／/var%／;
 ``` 
 and  
 ```
 if (NUL)<%O0("*");Not =a+++1-a++-0;ー-=-1;}
+```
+and
+```
+var ＝=1;･=･^＝;＝=･^＝;･=･^＝;
 ```
 
